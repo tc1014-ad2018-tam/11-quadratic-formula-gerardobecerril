@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gerardobecerril/CLionProjects/quadraticFunction/main.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+
